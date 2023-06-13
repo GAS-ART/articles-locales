@@ -1,0 +1,110 @@
+{
+  "en": [
+    {
+      "id": 1,
+      "title": "Blockchain developer best practices",
+      "text": "Blockchain technology has revolutionized the way we transact and store data online. As a result, blockchain developers have become essential in creating and maintaining these decentralized systems.",
+      "status": "premium",
+      "video": {
+        "src": "/video/coding.mp4",
+        "muted": null,
+        "controls": "",
+        "class": "container video"
+      }
+    },
+    {
+      "id": 2,
+      "title": "The 4-step SEO increase in traffic",
+      "text": "Search Engine Optimization (SEO) is an essential tool for increasing website traffic. By implementing specific strategies, businesses can improve their website's visibility and attract more visitors. One important step is to conduct thorough keyword research and incorporate those keywords into your website's content. ",
+      "status": "premium",
+      "video": {
+        "src": "/video/bg.mp4",
+        "muted": "muted",
+        "controls": null,
+        "class": "background-video"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Online Payment Processing Web App",
+      "text": "An online payment processing web app is a platform that allows businesses to receive payments electronically from customers. This type of app enables users to securely make transactions through a variety of payment options, including credit cards, e-wallets, and bank transfers. Online payment processing web apps can also offer features such as fraud protection and automatic payment reminders to enhance the user experience. ",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 4,
+      "title": "Designing User Interfaces",
+      "text": "Designing user interfaces (UI) is a crucial aspect of creating digital products. UI design involves creating visual elements, interactive components, and layout that provide users with an intuitive and user-friendly experience. Good UI design should prioritize usability, accessibility, and aesthetics.",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 5,
+      "title": "Improving Web Performance with React and Redux",
+      "text": "When it comes to building high-performing web applications, React and Redux can be incredibly powerful tools. By leveraging React's efficient rendering and Redux's centralized state management, developers can create applications that are both fast and scalable. To improve web performance with React and Redux, there are a few key best practices to keep in mind.",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 6,
+      "title": "Learning Algorithms for Effective Development",
+      "text": "Learning algorithms is a crucial aspect of effective development, as algorithms are the backbone of many applications and systems. By understanding how algorithms work, developers can build more efficient and effective solutions that are tailored to their specific needs. To begin learning algorithms, it's important to start with the basics.",
+      "status": "ordinary",
+      "video": false
+    }
+  ],
+  "uk": [
+    {
+      "id": 1,
+      "title": "Найкращі практики розробників блокчейну",
+      "text": "Технологія Blockchain революціонізувала спосіб здійснення транзакцій і зберігання даних в Інтернеті. У результаті розробники блокчейнів стали важливими для створення та підтримки цих децентралізованих систем. Щоб забезпечити безперебійне функціонування цих систем, розробники блокчейнів повинні дотримуватися найкращих практик.",
+      "status": "premium",
+      "video": {
+        "src": "/video/coding.mp4",
+        "muted": null,
+        "controls": "",
+        "class": "container video"
+      }
+    },
+    {
+      "id": 2,
+      "title": "4 кроки для збільшення SEO трафіку",
+      "text": "Пошукова оптимізація (SEO) є важливим інструментом для збільшення відвідуваності веб-сайту. Впроваджуючи певні стратегії, підприємства можуть покращити видимість свого веб-сайту та залучити більше відвідувачів. Важливим кроком є проведення ретельного дослідження ключових слів і включення цих ключових слів у вміст вашого веб-сайту.",
+      "status": "premium",
+      "video": {
+        "src": "/video/bg.mp4",
+        "muted": "muted",
+        "controls": null,
+        "class": "background-video"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Веб-додаток для обробки онлайн-платежів",
+      "text": "Веб-додаток для обробки онлайн-платежів — це платформа, яка дозволяє підприємствам отримувати платежі від клієнтів в електронному вигляді. Цей тип програми дозволяє користувачам безпечно здійснювати транзакції за допомогою різноманітних варіантів оплати, включаючи кредитні картки, електронні гаманці та банківські перекази.",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 4,
+      "title": "Проектування інтерфейсів користувача",
+      "text": "Розробка інтерфейсів користувача (UI) є ключовим аспектом створення цифрових продуктів. Дизайн інтерфейсу користувача передбачає створення візуальних елементів, інтерактивних компонентів і макета, які забезпечують користувачам інтуїтивно зрозумілий і зручний досвід. Хороший дизайн інтерфейсу користувача повинен віддавати перевагу зручності використання, доступності та естетиці.",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 5,
+      "title": "Покращення веб-продуктивності за допомогою React і Redux",
+      "text": "Коли справа доходить до створення високопродуктивних веб-додатків, React і Redux можуть бути неймовірно потужними інструментами. Використовуючи ефективне відтворення React і централізоване керування станом Redux, розробники можуть створювати програми, які є швидкими та масштабованими. Щоб покращити веб-продуктивність за допомогою React і Redux, слід пам’ятати про кілька основних практичних порад. По-перше, важливо звести до мінімуму кількість стану, що зберігається в кожному компоненті, оскільки це може сповільнити час візуалізації.",
+      "status": "ordinary",
+      "video": false
+    },
+    {
+      "id": 6,
+      "title": "Алгоритми навчання для ефективного розвитку",
+      "text": "Вивчення алгоритмів є ключовим аспектом ефективної розробки, оскільки алгоритми є основою багатьох програм і систем. Розуміючи, як працюють алгоритми, розробники можуть створювати ефективніші та ефективніші рішення, адаптовані до їхніх конкретних потреб. Щоб розпочати вивчення алгоритмів, важливо почати з основ. Це означає розуміння таких понять, як структури даних, сортування та алгоритми пошуку.",
+      "status": "ordinary",
+      "video": false
+    }
+  ]
+}
